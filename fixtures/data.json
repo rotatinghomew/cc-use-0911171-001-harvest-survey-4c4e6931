@@ -1,0 +1,479 @@
+{
+  "plots": [
+    {
+      "plot_id": "P01",
+      "group": "east",
+      "area_mu": 3,
+      "valid_from": "2026-09-01",
+      "valid_to": null,
+      "recorded_at": "2026-09-01",
+      "selection_probability": 0.75,
+      "soil_band": "river"
+    },
+    {
+      "plot_id": "P02",
+      "group": "east",
+      "area_mu": 4,
+      "valid_from": "2026-09-01",
+      "valid_to": null,
+      "recorded_at": "2026-09-01",
+      "selection_probability": 0.75,
+      "soil_band": "river"
+    },
+    {
+      "plot_id": "P03",
+      "group": "east",
+      "area_mu": 5,
+      "valid_from": "2026-09-01",
+      "valid_to": null,
+      "recorded_at": "2026-09-01",
+      "selection_probability": 0.75,
+      "soil_band": "hill"
+    },
+    {
+      "plot_id": "P04",
+      "group": "east",
+      "area_mu": 6,
+      "valid_from": "2026-09-01",
+      "valid_to": null,
+      "recorded_at": "2026-09-01",
+      "selection_probability": 0.75,
+      "soil_band": "river"
+    },
+    {
+      "plot_id": "P05",
+      "group": "east",
+      "area_mu": 2,
+      "valid_from": "2026-09-01",
+      "valid_to": null,
+      "recorded_at": "2026-09-01",
+      "selection_probability": 0.25,
+      "soil_band": "river"
+    },
+    {
+      "plot_id": "P06",
+      "group": "east",
+      "area_mu": 3,
+      "valid_from": "2026-09-01",
+      "valid_to": null,
+      "recorded_at": "2026-09-01",
+      "selection_probability": 0.25,
+      "soil_band": "hill"
+    },
+    {
+      "plot_id": "P07",
+      "group": "east",
+      "area_mu": 4,
+      "valid_from": "2026-09-01",
+      "valid_to": null,
+      "recorded_at": "2026-09-01",
+      "selection_probability": 0.25,
+      "soil_band": "river"
+    },
+    {
+      "plot_id": "P08",
+      "group": "east",
+      "area_mu": 5,
+      "valid_from": "2026-09-01",
+      "valid_to": null,
+      "recorded_at": "2026-09-01",
+      "selection_probability": 0.25,
+      "soil_band": "river"
+    },
+    {
+      "plot_id": "P09",
+      "group": "east",
+      "area_mu": 6,
+      "valid_from": "2026-09-01",
+      "valid_to": null,
+      "recorded_at": "2026-09-01",
+      "selection_probability": 0.25,
+      "soil_band": "hill"
+    },
+    {
+      "plot_id": "P10",
+      "group": "east",
+      "area_mu": 2,
+      "valid_from": "2026-09-01",
+      "valid_to": null,
+      "recorded_at": "2026-09-01",
+      "selection_probability": 0.25,
+      "soil_band": "river"
+    },
+    {
+      "plot_id": "P11",
+      "group": "east",
+      "area_mu": 3,
+      "valid_from": "2026-09-01",
+      "valid_to": null,
+      "recorded_at": "2026-09-01",
+      "selection_probability": 0.25,
+      "soil_band": "river"
+    },
+    {
+      "plot_id": "P12",
+      "group": "east",
+      "area_mu": 4,
+      "valid_from": "2026-09-01",
+      "valid_to": null,
+      "recorded_at": "2026-09-01",
+      "selection_probability": 0.25,
+      "soil_band": "hill"
+    },
+    {
+      "plot_id": "P13",
+      "group": "east",
+      "area_mu": 5,
+      "valid_from": "2026-09-01",
+      "valid_to": null,
+      "recorded_at": "2026-09-01",
+      "selection_probability": 0.25,
+      "soil_band": "river"
+    },
+    {
+      "plot_id": "P14",
+      "group": "east",
+      "area_mu": 6,
+      "valid_from": "2026-09-01",
+      "valid_to": null,
+      "recorded_at": "2026-09-01",
+      "selection_probability": 0.25,
+      "soil_band": "river"
+    },
+    {
+      "plot_id": "P15",
+      "group": "east",
+      "area_mu": 2,
+      "valid_from": "2026-09-01",
+      "valid_to": null,
+      "recorded_at": "2026-09-01",
+      "selection_probability": 0.25,
+      "soil_band": "hill"
+    },
+    {
+      "plot_id": "P16",
+      "group": "east",
+      "area_mu": 3,
+      "valid_from": "2026-09-01",
+      "valid_to": null,
+      "recorded_at": "2026-09-01",
+      "selection_probability": 0.25,
+      "soil_band": "river"
+    },
+    {
+      "plot_id": "P17",
+      "group": "west",
+      "area_mu": 4,
+      "valid_from": "2026-09-01",
+      "valid_to": null,
+      "recorded_at": "2026-09-01",
+      "selection_probability": 0.25,
+      "soil_band": "river"
+    },
+    {
+      "plot_id": "P18",
+      "group": "west",
+      "area_mu": 5,
+      "valid_from": "2026-09-01",
+      "valid_to": null,
+      "recorded_at": "2026-09-01",
+      "selection_probability": 0.25,
+      "soil_band": "hill"
+    },
+    {
+      "plot_id": "P19",
+      "group": "west",
+      "area_mu": 6,
+      "valid_from": "2026-09-01",
+      "valid_to": null,
+      "recorded_at": "2026-09-01",
+      "selection_probability": 0.25,
+      "soil_band": "river"
+    },
+    {
+      "plot_id": "P20",
+      "group": "west",
+      "area_mu": 2,
+      "valid_from": "2026-09-01",
+      "valid_to": null,
+      "recorded_at": "2026-09-01",
+      "selection_probability": 0.25,
+      "soil_band": "river"
+    },
+    {
+      "plot_id": "P21",
+      "group": "west",
+      "area_mu": 3,
+      "valid_from": "2026-09-01",
+      "valid_to": null,
+      "recorded_at": "2026-09-01",
+      "selection_probability": 0.25,
+      "soil_band": "hill"
+    },
+    {
+      "plot_id": "P22",
+      "group": "west",
+      "area_mu": 4,
+      "valid_from": "2026-09-01",
+      "valid_to": null,
+      "recorded_at": "2026-09-01",
+      "selection_probability": 0.25,
+      "soil_band": "river"
+    },
+    {
+      "plot_id": "P23",
+      "group": "west",
+      "area_mu": 5,
+      "valid_from": "2026-09-01",
+      "valid_to": null,
+      "recorded_at": "2026-09-01",
+      "selection_probability": 0.25,
+      "soil_band": "river"
+    },
+    {
+      "plot_id": "P24",
+      "group": "west",
+      "area_mu": 6,
+      "valid_from": "2026-09-01",
+      "valid_to": null,
+      "recorded_at": "2026-09-01",
+      "selection_probability": 0.25,
+      "soil_band": "hill"
+    }
+  ],
+  "visits": [
+    {
+      "visit_id": "V1-1",
+      "plot_id": "P01",
+      "observed_on": "2026-11-10",
+      "recorded_at": "2026-11-10",
+      "harvested_area_mu": 2,
+      "harvested_kg": 958,
+      "complete": false,
+      "expected_finish": "2026-11-20"
+    },
+    {
+      "visit_id": "V1-2",
+      "plot_id": "P01",
+      "observed_on": "2026-11-11",
+      "recorded_at": "2026-11-11",
+      "harvested_area_mu": 2,
+      "harvested_kg": 973,
+      "complete": false,
+      "expected_finish": "2026-11-20"
+    },
+    {
+      "visit_id": "V2-1",
+      "plot_id": "P02",
+      "observed_on": "2026-11-10",
+      "recorded_at": "2026-11-10",
+      "harvested_area_mu": 1,
+      "harvested_kg": 1001,
+      "complete": false,
+      "expected_finish": "2026-11-20"
+    },
+    {
+      "visit_id": "V2-2",
+      "plot_id": "P02",
+      "observed_on": "2026-11-11",
+      "recorded_at": "2026-11-11",
+      "harvested_area_mu": 1,
+      "harvested_kg": 1016,
+      "complete": false,
+      "expected_finish": "2026-11-20"
+    },
+    {
+      "visit_id": "V3-1",
+      "plot_id": "P03",
+      "observed_on": "2026-11-10",
+      "recorded_at": "2026-11-10",
+      "harvested_area_mu": 2,
+      "harvested_kg": 1044,
+      "complete": true,
+      "expected_finish": "2026-11-20"
+    },
+    {
+      "visit_id": "V3-2",
+      "plot_id": "P03",
+      "observed_on": "2026-11-11",
+      "recorded_at": "2026-11-11",
+      "harvested_area_mu": 2,
+      "harvested_kg": 1059,
+      "complete": true,
+      "expected_finish": "2026-11-20"
+    },
+    {
+      "visit_id": "V5-1",
+      "plot_id": "P05",
+      "observed_on": "2026-11-10",
+      "recorded_at": "2026-11-10",
+      "harvested_area_mu": 2,
+      "harvested_kg": 1130,
+      "complete": false,
+      "expected_finish": "2026-11-20"
+    },
+    {
+      "visit_id": "V6-1",
+      "plot_id": "P06",
+      "observed_on": "2026-11-10",
+      "recorded_at": "2026-11-10",
+      "harvested_area_mu": 1,
+      "harvested_kg": 1173,
+      "complete": true,
+      "expected_finish": "2026-11-20"
+    },
+    {
+      "visit_id": "V7-1",
+      "plot_id": "P07",
+      "observed_on": "2026-11-10",
+      "recorded_at": "2026-11-10",
+      "harvested_area_mu": 2,
+      "harvested_kg": 1216,
+      "complete": false,
+      "expected_finish": "2026-11-20"
+    },
+    {
+      "visit_id": "V9-1",
+      "plot_id": "P09",
+      "observed_on": "2026-11-10",
+      "recorded_at": "2026-11-10",
+      "harvested_area_mu": 2,
+      "harvested_kg": 1302,
+      "complete": true,
+      "expected_finish": "2026-11-20"
+    },
+    {
+      "visit_id": "V10-1",
+      "plot_id": "P10",
+      "observed_on": "2026-11-10",
+      "recorded_at": "2026-11-10",
+      "harvested_area_mu": 1,
+      "harvested_kg": 1345,
+      "complete": false,
+      "expected_finish": "2026-11-20"
+    },
+    {
+      "visit_id": "V11-1",
+      "plot_id": "P11",
+      "observed_on": "2026-11-10",
+      "recorded_at": "2026-11-10",
+      "harvested_area_mu": 2,
+      "harvested_kg": 1388,
+      "complete": false,
+      "expected_finish": "2026-11-20"
+    },
+    {
+      "visit_id": "V13-1",
+      "plot_id": "P13",
+      "observed_on": "2026-11-10",
+      "recorded_at": "2026-11-10",
+      "harvested_area_mu": 2,
+      "harvested_kg": 1474,
+      "complete": false,
+      "expected_finish": "2026-11-20"
+    },
+    {
+      "visit_id": "V14-1",
+      "plot_id": "P14",
+      "observed_on": "2026-11-10",
+      "recorded_at": "2026-11-10",
+      "harvested_area_mu": 1,
+      "harvested_kg": 1517,
+      "complete": false,
+      "expected_finish": "2026-11-20"
+    },
+    {
+      "visit_id": "V15-1",
+      "plot_id": "P15",
+      "observed_on": "2026-11-10",
+      "recorded_at": "2026-11-10",
+      "harvested_area_mu": 2,
+      "harvested_kg": 1560,
+      "complete": true,
+      "expected_finish": "2026-11-20"
+    },
+    {
+      "visit_id": "V17-1",
+      "plot_id": "P17",
+      "observed_on": "2026-11-10",
+      "recorded_at": "2026-11-10",
+      "harvested_area_mu": 2,
+      "harvested_kg": 1646,
+      "complete": false,
+      "expected_finish": "2026-11-20"
+    },
+    {
+      "visit_id": "V18-1",
+      "plot_id": "P18",
+      "observed_on": "2026-11-10",
+      "recorded_at": "2026-11-10",
+      "harvested_area_mu": 1,
+      "harvested_kg": 1689,
+      "complete": true,
+      "expected_finish": "2026-11-20"
+    },
+    {
+      "visit_id": "V19-1",
+      "plot_id": "P19",
+      "observed_on": "2026-11-10",
+      "recorded_at": "2026-11-10",
+      "harvested_area_mu": 2,
+      "harvested_kg": 1732,
+      "complete": false,
+      "expected_finish": "2026-11-20"
+    },
+    {
+      "visit_id": "V21-1",
+      "plot_id": "P21",
+      "observed_on": "2026-11-10",
+      "recorded_at": "2026-11-10",
+      "harvested_area_mu": 2,
+      "harvested_kg": 1818,
+      "complete": true,
+      "expected_finish": "2026-11-20"
+    },
+    {
+      "visit_id": "V22-1",
+      "plot_id": "P22",
+      "observed_on": "2026-11-10",
+      "recorded_at": "2026-11-10",
+      "harvested_area_mu": 1,
+      "harvested_kg": 1861,
+      "complete": false,
+      "expected_finish": "2026-11-20"
+    },
+    {
+      "visit_id": "V23-1",
+      "plot_id": "P23",
+      "observed_on": "2026-11-10",
+      "recorded_at": "2026-11-10",
+      "harvested_area_mu": 2,
+      "harvested_kg": 1904,
+      "complete": false,
+      "expected_finish": "2026-11-20"
+    }
+  ],
+  "orders": [
+    {
+      "order_id": "C1",
+      "due_on": "2026-11-20",
+      "group": null,
+      "kg": 5000,
+      "status": "confirmed"
+    },
+    {
+      "order_id": "C2",
+      "due_on": "2026-11-20",
+      "group": "east",
+      "kg": 6000,
+      "status": "proposed"
+    },
+    {
+      "order_id": "C3",
+      "due_on": "2026-11-22",
+      "group": "west",
+      "kg": 2000,
+      "status": "confirmed"
+    }
+  ]
+}
